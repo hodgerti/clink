@@ -5,7 +5,7 @@ Quick Recipes
 - Fill out a recipe closely imitating the example recipe below.
 - Focus on brevity.
 - Accepted file types are *.md, *.txt
-
+- Make a pull request
 
 ### Example Recipe ###
 ```
@@ -37,4 +37,10 @@ Soft Pumpkin Cookies - With Glaze
     1/8 teaspoon salt
     1. In a medium bow, whisk together glaze ingredients until smooth.
     2. When cookies are fully cooled, drizzle glaze over cookies using a whisk, spoon or pastry bag with small tip.
+    
+Credit:
+  https://www.simplywhisked.com/dairy-free-pumpkin-cookies/
+  hodgerti
+  I made this for my brother in law.
+  Gotta wrap this up. I only get 4 lines for credit!
 ```
