@@ -5,7 +5,7 @@ Quick Recipes
 - Fill out a recipe closely imitating the example recipe below.
 - Focus on brevity.
 - Accepted file types are *.md, *.txt
-- Make a pull request
+- Make a pull request for your target branch to go into headchef
 
 ### Example Recipe ###
 ```
